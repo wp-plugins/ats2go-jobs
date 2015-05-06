@@ -20,13 +20,13 @@ The ATS2go Jobs plugin makes it easy for anyone with a WordPress website to disp
 
 Find out how ATS2go can transform your recruitment process:
 [Watch our Video](https://www.youtube.com/watch?v=RXdI-f74eJs "Watch our Video")
-Not got an ATS2go account? No problem. Simply visit [ww.ats2go.com](www.ats2go.com "www.ats2go.com"), email [info@ats2go.com](info@ats2go.com "info@ats2go.com") or call 0844 324 5027 and press Option 1 and we’ll get you set up in no time. 
+Not got an ATS2go account? No problem. Simply visit [ww.ats2go.com](www.ats2go.com "www.ats2go.com"), email [info@ats2go.com](info@ats2go.com "info@ats2go.com") or call 0844 324 5027 and press Option 1 and we'll get you set up in no time. 
 
 
 == Installation ==
 
 1.	Use the automatic installer or unzip and upload the folder wp-ats2go_jobs via FTP client to the wp-content/plugins directory.
-2.	Activate the plugin through the ‘Plugins’ menu in WordPress.
+2.	Activate the plugin through the 'Plugins' menu in WordPress.
 3.	Connect your ATS2go account to the plugin by inserting your “Verification Code” into the settings page field.
 4.	Decide which page(s) you want your jobs list to reside and paste in the provided ATS2go Jobs short code.
 
@@ -38,10 +38,10 @@ Not got an ATS2go account? No problem. Simply visit [ww.ats2go.com](www.ats2go.c
 
 == Frequently Asked Questions == 
 
-Can I use the ATS2go Jobs plugin if I don’t have an ATS2go account?
-Nope, you need to be signed up to ATS2go to use the ATS2go Jobs plugin. You’ll manage all your vacancies, candidates and reporting data from your ATS2go account as it’s important to ensure your candidate data remains secure and private.
-Luckily, it’s simple to get set-up! Simply visit www.ats2go.com, email info@ats2go.com or call 0844 324 5027 and press Option 1 and we’ll get you set up in no time. 
-Who should I talk to if there’s a problem with my ATS2go Jobs plugin?
-We have put together a comprehensive list of FAQs in the ‘Help’ section of the ATS2go Jobs plugin, so you should be able to find everything you’re looking for there. However, if you do still need to speak to someone, please email support@ats2go.com and we’ll help you as quickly as possible.
+Can I use the ATS2go Jobs plugin if I don't have an ATS2go account?
+Nope, you need to be signed up to ATS2go to use the ATS2go Jobs plugin. You'll manage all your vacancies, candidates and reporting data from your ATS2go account as it's important to ensure your candidate data remains secure and private.
+Luckily, it's simple to get set-up! Simply visit www.ats2go.com, email info@ats2go.com or call 0844 324 5027 and press Option 1 and we'll get you set up in no time. 
+Who should I talk to if there's a problem with my ATS2go Jobs plugin?
+We have put together a comprehensive list of FAQs in the 'Help' section of the ATS2go Jobs plugin, so you should be able to find everything you're looking for there. However, if you do still need to speak to someone, please email support@ats2go.com and we'll help you as quickly as possible.
 
 
