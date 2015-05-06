@@ -1,0 +1,15 @@
+/* --- Job list styling --- */
+div.joblist div.hs_job_classifications {
+	line-height: 20px;
+}
+
+div.joblist div.icamsjobs {
+	margin-bottom: 20px;
+}
+
+/* --- Jobdetail styling --- */
+div.jobdetail div.hs_job_classifications {
+	line-height: 20px;
+	margin-bottom: 20px;
+}
+

@@ -1,0 +1,199 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: iCamsJobs\n"
+"POT-Creation-Date: 2014-06-10 17:31+0100\n"
+"PO-Revision-Date: 2014-06-11 09:25+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: classes/iCamsJobs-settings.php:24
+msgid "General"
+msgstr "Algemeen"
+
+#: classes/iCamsJobs-settings.php:32
+msgid "Customer ID"
+msgstr "Klant ID"
+
+#: classes/iCamsJobs-settings.php:41
+msgid "Jobfeed update every"
+msgstr "Update jobfeed elke"
+
+#: classes/iCamsJobs-settings.php:50
+msgid "Jobfeed language"
+msgstr "Jobfeed taal"
+
+#: classes/iCamsJobs-settings.php:59
+msgid "Menu position"
+msgstr "Menu positie"
+
+#: classes/iCamsJobs-settings.php:96
+msgid "Joblist"
+msgstr "Vacaturelijst"
+
+#: classes/iCamsJobs-settings.php:103 classes/iCamsJobs-settings.php:136
+msgid "Show summary"
+msgstr "Toon samenvatting"
+
+#: classes/iCamsJobs-settings.php:111 classes/iCamsJobs-settings.php:144
+msgid "Show classifications"
+msgstr "Toon classificaties"
+
+#: classes/iCamsJobs-settings.php:119
+msgid "Show \"Read more\" link"
+msgstr "Toon \"Lees meer\" link"
+
+#: classes/iCamsJobs-settings.php:129
+msgid "Jobdetail"
+msgstr "Vacaturedetail"
+
+#: classes/iCamsJobs-settings.php:152
+msgid "Applybutton position"
+msgstr "Solliciteerknop positie"
+
+#: classes/iCamsJobs-settings.php:201
+msgid "Social"
+msgstr "Sociaal"
+
+#: classes/iCamsJobs-settings.php:209
+msgid "LinkedIn Key"
+msgstr "LinkedIn Sleutel"
+
+#: classes/iCamsJobs-settings.php:218
+msgid "Facebook Key"
+msgstr "Facebook sleutel"
+
+#: classes/iCamsJobs-settings.php:240
+msgid ""
+"<p>Fill in your iCams Customer ID. If your iCams implementation supports "
+"more than one language, specify the language of the jobs you want to show, "
+"example (NL, EN, FR, etc.).<br/>By default the jobfeed updates every 15 "
+"minutes, below you can update the frequency. </p>"
+msgstr ""
+"<p>Vul hier uw klant ID in. Indien uw iCams implementatie meerdere talen "
+"support, specifier dan de taal van de vacatures die u wilt tonen, "
+"voorbeelden: NL, EN en FR.<br/>Standaard update de jobfeed elke 15 minuten, "
+"hieronder kunt u deze frequentie aanpassen.</p>"
+
+#: classes/iCamsJobs-settings.php:245
+msgid ""
+"<p>Edit the settings below to change how the <i>joblist</i> is displayed.</p>"
+msgstr ""
+"<p>Wijzig de instellingen hieronder om het tonen van de <i>vacaturelijst</i> "
+"aan te passen.</p>"
+
+#: classes/iCamsJobs-settings.php:248
+msgid ""
+"<p>Edit the settings below to change how the <i>jobdetail</i> page is "
+"displayed.</p>"
+msgstr ""
+"<p>Wijzig de instellingen hieronder om het tonen van de <i>vacaturedetail</"
+"i> pagina aan te passen.</p>"
+
+#: classes/iCamsJobs-settings.php:252
+msgid ""
+"<p>Add social media Apps to enable new features within the iCamsJobs plugin."
+"</p>"
+msgstr ""
+"<p>Voeg social media Apps toe voer nieuwe functionaliteiten in de iCamsJobs "
+"plugin.</p>"
+
+#: classes/iCamsJobs-settings.php:271
+msgid "<span> minutes</span>"
+msgstr "<span> minuten</span>"
+
+#: classes/iCamsJobs-settings.php:296
+msgid "Below"
+msgstr "Beneden"
+
+#: classes/iCamsJobs-settings.php:297
+msgid "Above"
+msgstr "Boven"
+
+#: classes/iCamsJobs-settings.php:298
+msgid "Below & above"
+msgstr "Beneden & boven"
+
+#: classes/iCamsJobs-settings.php:334
+msgid "Settings"
+msgstr "Instellingen"
+
+#: classes/iCamsJobs-settings.php:342
+msgid "iCamsJobs Settings"
+msgstr "iCamsJobs Instellingen"
+
+#: classes/iCamsJobs-settings.php:363
+msgid "General Settings"
+msgstr "Algemene Instellingen"
+
+#: classes/iCamsJobs-settings.php:364
+msgid "Display Settings"
+msgstr "Toon Instellingen"
+
+#: classes/iCamsJobs-settings.php:365
+msgid "Social Settings"
+msgstr "Sociaal Instellingen"
+
+#: classes/iCamsJobs-settings.php:386
+msgid ""
+"<div class=\"error\"><p><strong>Please specify your iCams Customer ID on the "
+"settings page. (Go in the menu to iCamsJobs -> Settings).</strong></p></div>"
+msgstr ""
+"<div class=\"error\"><p><strong>Stel aub uw iCams specify your iCams web "
+"site id at the settings page. (In menu go to iCamsJobs -> Settings).</"
+"strong></p></div>"
+
+#: iCamsJobs-functions.php:30 iCamsJobs-functions.php:44
+msgid "iCamsJobs"
+msgstr ""
+
+#: iCamsJobs-functions.php:31
+msgid "icamsjob"
+msgstr ""
+
+#: iCamsJobs-functions.php:32 iCamsJobs-functions.php:33
+msgid "Add icamsjob"
+msgstr ""
+
+#: iCamsJobs-functions.php:34 iCamsJobs-functions.php:35
+msgid "Edit icamsjob"
+msgstr ""
+
+#: iCamsJobs-functions.php:36
+msgid "New icamsjob"
+msgstr ""
+
+#: iCamsJobs-functions.php:37 iCamsJobs-functions.php:38
+msgid "View icamsjob"
+msgstr ""
+
+#: iCamsJobs-functions.php:39
+msgid "Search icamsjob"
+msgstr ""
+
+#: iCamsJobs-functions.php:40
+msgid "No icamsjob found"
+msgstr "Geen iCamsJobs gevonden"
+
+#: iCamsJobs-functions.php:41
+msgid "No icamsjob found in Trash"
+msgstr "Geen iCamsjob gevonden in prullebak"
+
+#: iCamsJobs-functions.php:42
+msgid "Parent icamsjob"
+msgstr ""
+
+#: iCamsJobs-functions.php:219
+msgid "iCamsjobs custom update"
+msgstr ""
