@@ -252,7 +252,7 @@ class ATS2goJobs_Settings {
 	//
 	// SECTION CALLBACKS
 	function ats2gojobs_settings_general_callback() {
-		echo __('<p>Fill in your iCams Customer ID. If your iCams implementation supports more than one language, specify the language of the jobs you want to show, example (NL, EN, FR, etc.).<br/>' . 
+		echo __('<p>Fill in your ATS2go Customer ID. If your ATS2go implementation supports more than one language, specify the language of the jobs you want to show, example (NL, EN, FR, etc.).<br/>' . 
 				    'By default the jobfeed updates every 15 minutes, below you can update the frequency. </p>', 'ATS2goJobs');
 	}
 	
@@ -400,7 +400,7 @@ class ATS2goJobs_Settings {
 	function ats2gojobs_settings_notices() {
 		$web_site_id = get_option('hs_web_site_id');
 		if (!isset($web_site_id) or $web_site_id == '') {
-			echo __('<div class="error"><p><strong>Please specify your iCams Customer ID on the settings page. (Go in the menu to ATS2goJobs -> Settings).</strong></p></div>', 'ATS2goJobs');	
+			echo __('<div class="error"><p><strong>Please specify your ATS2go Customer ID on the settings page. (Go in the menu to ATS2goJobs -> Settings).</strong></p></div>', 'ATS2goJobs');	
 		}
 	}
 }
