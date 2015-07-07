@@ -3,7 +3,7 @@
 Plugin Name: ATS2goJobs
 Plugin URI: http://www.ats2go.com
 Description: Show ATS2go vacancies on your WordPress website! Quick integration with your CMS.
-Version: 1.0
+Version: 1.02
 Author: ATS2go
 Author URI: http://www.ats2go.com
 Text Domain: ATS2goJobs
