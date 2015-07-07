@@ -32,10 +32,10 @@ Not got an ATS2go account? No problem. Simply visit [ww.ats2go.com](www.ats2go.c
 
 
 == Changelog ==
-
+= 1.01 =	
 = 1.0 =	
 * Release.
-= 1.01 =	
+
 == Frequently Asked Questions == 
 
 Can I use the ATS2go Jobs plugin if I don't have an ATS2go account?
